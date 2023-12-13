@@ -1,0 +1,7 @@
+{
+  "name": "ionic-mini-task",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
