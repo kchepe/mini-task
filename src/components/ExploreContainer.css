@@ -30,3 +30,17 @@
   margin-bottom: 5px;
   font-size: 18px;
 }
+.person-container {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 10px 0px;
+}
+img {
+  width: 100px;
+  border-radius: 10px;
+}
+
+ion-item.myList {
+  gap: 10px;
+}
